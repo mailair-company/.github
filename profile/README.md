@@ -26,4 +26,4 @@
 - **Team workspace** — shared docs, files, chat, and built-in voice and video calls
 - **Fits your stack** — HubSpot, Salesforce, Slack, and Google Calendar, plus iOS and Android apps
 
-Built with Next.js, FastAPI, Supabase, and the Claude API. Source: [mailair-company/mailair](https://github.com/mailair-company/mailair).
+Built with Next.js, FastAPI, Supabase. Source: [mailair-company/mailair](https://github.com/mailair-company/mailair).
